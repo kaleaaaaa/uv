@@ -1,0 +1,3 @@
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App
+npm instal
+npm start
